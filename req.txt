@@ -7,4 +7,3 @@ langchain_groq
 streamlit
 faiss-cpu
 tavily-python
-pandas
